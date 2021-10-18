@@ -3,7 +3,7 @@
 
 :blue_book: I am a Computer Science Engineer graduate 
 
-:computer: Currently working as a Research Intern
+:computer: Currently working as a Junior Research Engineer
 
 ⚡ Mainly interested in web programming, cybersecurity and machine learning
 
