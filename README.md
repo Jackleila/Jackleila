@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Sara El Kortbi
 ---
 
-:blue_book: I am a Computer Science Engineer graduate 
+:blue_book: I am a CS graduate and I have a Master in Cybersecurity
 
-:computer: Currently working as a Junior Research Engineer
+:computer: Currently working as a cSOC Analyst
 
-⚡ Mainly interested in web programming, cybersecurity and machine learning
+⚡ Mainly interested in cybersecurity, web programming and machine learning
 
 <!-- :octocat: 
 
